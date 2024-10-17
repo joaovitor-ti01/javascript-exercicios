@@ -15,7 +15,7 @@ let corinthiansrebaixado = true
 console.log(` A variável  ${corinthiansrebaixado} é do tipo ${typeof(corinthiansrebaixado)}`)
 
 // macaco da barriga gorda 
-let frutas = ["pera, uva, maçã, manga"]
+let frutas = ["pera", "uva", "maçã", "manga"]
 console.log(` A variável  ${frutas} é do tipo ${typeof(frutas)}`)
 
 function chablau(){
